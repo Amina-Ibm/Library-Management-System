@@ -1,6 +1,7 @@
 # Library-Management-System
 
-![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/7417d992-2b5e-4e0a-9f4b-3ca96a9295ca)
+![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/e2dff627-f8e8-4083-836f-1047e2dc99f1)
+
 
 Final project of OOP in Second Semester.
 
@@ -8,10 +9,15 @@ Its a Library Management System with Member and Librarian Users. Authentication 
 
 It makes use of dynamic memory, pointers, arrays, conctructors, destructors, classes and methods.
 
+![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/56e5777c-adaa-45d6-a42a-28a4405c4b27)
 
-![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/042eeff4-917d-42e6-9e33-3bd32809d0d3)
+![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/ad88d0bb-1ed4-4863-9894-45596c9d0913)
 
-![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/4412abc7-dec6-4eed-922b-ea232b6d2d2b)
+![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/77e242aa-3330-438f-8c46-ed703c1138a2)
+
+![image](https://github.com/Amina-Ibm/Library-Management-System/assets/96983960/9995e16b-fca5-487a-9017-12c2507e210c)
+
+
 
 
 
